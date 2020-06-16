@@ -1,7 +1,7 @@
 # Unsupervised Learning for Iris Species
 
 Kaggle notebook : https://www.kaggle.com/selimsavas16/unsupervised-learning-for-iris-species
-Kaggle data : https://www.kaggle.com/uciml/iris
+
 
 Unsupervised learning for Iris Species
 
@@ -27,3 +27,4 @@ The columns in this dataset are:
 
 Id SepalLengthCm SepalWidthCm PetalLengthCm PetalWidthCm Species
 
+https://www.kaggle.com/uciml/iris
